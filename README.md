@@ -19,5 +19,5 @@ I'm a Australian-based developer who loves creating visually stunning and user-f
 
 ## Contact
 
-Twitter: @syko_wtf
-Discord: elsyko
+- Twitter: @syko_wtf
+- Discord: elsyko
